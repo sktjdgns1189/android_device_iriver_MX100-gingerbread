@@ -1,0 +1,6 @@
+#
+# system.prop for smdkc110
+#
+
+ro.sf.lcd_density=240
+
